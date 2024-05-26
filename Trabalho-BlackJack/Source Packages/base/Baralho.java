@@ -21,7 +21,7 @@ public abstract class Baralho {
      */
     public abstract void gerarBaralho();
     /**
-     * ysar metodo shuffle da classe Colections
+     * usar metodo shuffle da classe Colections
      */
     public abstract void embaralhar();
     /**
